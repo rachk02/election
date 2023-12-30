@@ -1,6 +1,6 @@
 # Election decentralisee
 ### Participants
-- Dadolo Micheline Latifatou
+- Badolo Micheline Latifatou
 - Fofana Abdoul-rachid
 - Some Wendbele Diane
 
