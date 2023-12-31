@@ -1,4 +1,4 @@
-# Election decentralisee
+# Election décentralisée
 ### Participants
 - Badolo Micheline Latifatou
 - Fofana Abdoul-rachid B.
@@ -12,7 +12,7 @@
    ```
 2. **Installer les dépendances**
     
-    se placer dans le repo
+    * Se placer dans le dossier cloner
     ``` 
     $ cd election
     ```
@@ -27,7 +27,6 @@
    * Cliquer sur le bouton `ADD PROJECT` pour ajouter le fichier de configuration `truffle-config.js` du programme et par la suite cliquer sur le bouton `START` pour enregistrer le workspace.
 ***
 4. **Compiler et déployer le contrat intelligent Election**
-    
     ```
     $ truffle migrate --reset
     ```
@@ -38,7 +37,6 @@
     * Connecter Metamask à la blockchain Ethereum locale fournie par Ganache.
         * Dans les parametres de Metamask cliquer sur `Réseaux > Ajouter un réseau > Ajouter manuellement un réseau`
         * Renseigner les différents champs avec :
-        
             *Nouvelle URL de RPC*
             ```
             http://127.0.0.1:7545/
