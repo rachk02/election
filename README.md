@@ -4,7 +4,7 @@
 - Fofana Abdoul-rachid B.
 - Some Wendbele Diane
 
-## Procedures a suivre pour l'execution du code 
+## Procedures a suivre pour l'exécution du code 
 
 1. **Cloner le projet**
    ```
