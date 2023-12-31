@@ -39,13 +39,16 @@
         * Dans les parametres de Metamask cliquer sur `Réseaux > Ajouter un réseau > Ajouter manuellement un réseau`
         * Renseigner les différents champs avec :
         
-            ```Nouvelle URL de RPC
+            *Nouvelle URL de RPC*
+            ```
             http://127.0.0.1:7545/
             ```
-            ```ID de chaîne
+            *ID de chaîne*
+            ```
             1337
             ```
-            ```Symbole de la devise
+            *Symbole de la devise*
+            ```
             ETH
             ```
     * Enregistrer le réseau.
